@@ -11,10 +11,10 @@ const subtracao = numero1 - numero2;
 console.log(subtracao);
 
 const multiplicacao = numero1 * numero2;
-console.log(multiplicacao)
+console.log(multiplicacao);
 
 const divisao = numero1 / numero2;
-console.log(divisao)
+console.log(divisao);
 
 
 /*const pi = 3.1415

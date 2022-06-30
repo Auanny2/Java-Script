@@ -22,8 +22,13 @@ const familia = [
     }
 ]
 
+// Cor preferida
 for (let i = 0 ; i < familia.length ; i ++) {
     let nome = familia[i];
+
+    if(nome.corPreferida) {
+
+    }
 
 
 }
